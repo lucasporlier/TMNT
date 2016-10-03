@@ -2,13 +2,18 @@
 Application Web de Service à la personne
 
 AdopteUneNounous est une entreprise publique qui souhaite se lancer dans le secteur des services d’aide à la personne dans l'agglomération parisienne. L’entreprise proposerais des services dans le domaine du babysitting. Elle agirait dans la région parisienne dans un premier temps et une expansion serais à envisager selon le succès rencontrer.
+
 Afin de lancer leurs offres de service, AdopteUneNounous souhaite mettre en place une plateforme utilisable sur différent support, pour que les clients puissent accéder à leurs catalogues de services.
 Afin de répondre, a cet appel d’offre, la société TMNT qui prendra en charge la réalisation de ce projet, fournira une réponse au cahier des charger fournie par le client présent ci-dessous :
 
 o	La plateforme d’hébergement
+
 o	Le Langage de développement (open source) la plus appropriée (évolutive)
+
 o	De choisir les modules supplémentaires à utiliser (?)
+
 o	Type de compte présent sur le site
+
 o	Service de Gestion de Bases de Donnée
   
 Réponse au cahier des charges :
