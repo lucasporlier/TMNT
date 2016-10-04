@@ -1,26 +1,42 @@
 # TMNT
 Application Web de Service à la personne
 
-AdopteUneNounous est une entreprise publique qui souhaite se lancer dans le secteur des services d’aide à la personne dans l'agglomération parisienne. L’entreprise proposerais des services dans le domaine du babysitting. Elle agirait dans la région parisienne dans un premier temps et une expansion serais à envisager selon le succès rencontrer.
+Arduino Pin | RC522 Pin
+------------|--------------
+Accueil		| https://lucasporlier.github.io/TMNT/index.html
+Example		| https://lucasporlier.github.io/TMNT/connexion.html
+Example		| MOSI
+Example		| MISO
+Example		| SCK
+Example		| 3V3
+Example		| GND
 
-Afin de lancer leurs offres de service, AdopteUneNounous souhaite mettre en place une plateforme utilisable sur différent support, pour que les clients puissent accéder à leurs catalogues de services.
-Afin de répondre, a cet appel d’offre, la société TMNT qui prendra en charge la réalisation de ce projet, fournira une réponse au cahier des charger fournie par le client présent ci-dessous :
+### Description
 
-o	La plateforme d’hébergement
+NounouExpress est une entreprise publique qui souhaite se lancer dans le secteur des services d’aide à la personne dans l'agglomération parisienne. L’entreprise proposerait des services de babysitting à domicile. Elle agirait dans la région parisienne dans un premier temps avec une expansion régionale ou nationale envisagée selon le succès rencontré.
 
-o	Le Langage de développement (open source) la plus appropriée (évolutive)
+### Projet
 
-o	De choisir les modules supplémentaires à utiliser (?)
+Afin de lancer leurs offres de service, NounouExpress souhaite mettre en place une plateforme utilisable sur différents supports, pour que les clients puissent accéder à leur catalogue de services.
+Afin de répondre à cet appel d’offre, la société TMNT qui prendra en charge la réalisation de ce projet, fournira une réponse au cahier des charges résumé ci-dessous :
 
-o	Type de compte présent sur le site
+- La plateforme d’hébergement
 
-o	Service de Gestion de Bases de Donnée
-  
-Réponse au cahier des charges :
+- Le langage de développement le plus approprié (évolutif)
 
-Afin de répondre à la demande des besoins ainsi que respecter les couts autoriser lors de cette mise en place, nous allons utiliser l’environnement Github dans le but de déployer la solution à moindre cout, une migration est prévue dans le futur. La solution choisie est une page web responsive design afin qu’elle soit consultable sur tous les support PC, smartphone & tablette.
+- De choisir les modules supplémentaires à utiliser (?)
 
-Concernant les fonctionnalités du service, deux types de compte seront disponible lors de l’inscription, un compte : un compte pour les parents et un compte pour les nounous.
+- Type de comptes présent sur le site
 
-Afin de validé l’ensemble des éléments, la solution ainsi que tous éléments précédemment cité devront être validé par le bon fonctionnement de celui-ci lors d’un test de fonctionnement de  l’intégralité des elements mise en place dans la plateforme web.
+- Service de Gestion de Base de Données
+
+**Réponse au cahier des charges :**
+
+Afin de répondre à la demande des besoins ainsi que respecter les coûts autorisés lors de cette mise en place, nous allons utiliser l’environnement GitHub dans le but de déployer la solution à moindre coût ; une migration est prévue dans le futur. La solution choisie est une page web responsive design afin qu’elle soit consultable à partir de chaque support connecté : Ordinateur, Smartphone & Tablette.
+
+Concernant les fonctionnalités du service, deux types de comptes seront disponibles lors de l’inscription : un compte pour les parents et un compte pour les nounous.
+
+### Tests
+
+Afin de valider l’ensemble final, la solution ainsi que tous éléments précédemment cités devront être validés par une batterie de tests unitaires.
 
