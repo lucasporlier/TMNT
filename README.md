@@ -1,10 +1,11 @@
 # TMNT
 Application Web de Service à la personne
 
-Arduino Pin | RC522 Pin
+Pages		| URLs
 ------------|--------------
 Accueil		| https://lucasporlier.github.io/TMNT/index.html
-Example		| https://lucasporlier.github.io/TMNT/connexion.html
+Connexion	| https://lucasporlier.github.io/TMNT/connexion.html
+Inscription	| https://lucasporlier.github.io/TMNT/inscription.html
 Example		| MOSI
 Example		| MISO
 Example		| SCK
