@@ -41,16 +41,16 @@ function validation(f) {
 
 			<!-- Header -->
 				<header id="header">
-					<h1 id="logo"><a href="index.html">TMNT Presents</a></h1>
+					<h1 id="logo"><a href="index.php">TMNT Presents</a></h1>
 					<nav id="nav">
 						<ul>
-							<li><a href="index.html">Accueil</a></li>
+							<li><a href="index.php">Accueil</a></li>
 							<li>
 								<a href="#">Résultats (tpl layouts)</a>
 								<ul>
-									<li><a href="left-sidebar.html">Left Sidebar</a></li>
-									<li><a href="right-sidebar.html">Right Sidebar</a></li>
-									<li><a href="no-sidebar.html">No Sidebar</a></li>
+									<li><a href="left-sidebar.php">Left Sidebar</a></li>
+									<li><a href="right-sidebar.php">Right Sidebar</a></li>
+									<li><a href="no-sidebar.php">No Sidebar</a></li>
 									<li>
 										<a href="#">Submenu</a>
 										<ul>
